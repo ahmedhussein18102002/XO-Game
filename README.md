@@ -29,7 +29,11 @@ This project implements a simple XO game (also known as Tic-Tac-Toe) using the T
 4. Enjoy the game and have fun!
 
 ## Contributors
-- Muhammad Khaled <muhammadhaggagg@gmail.com>
+- Ahmed Hussein https://github.com/ahmedhussein18102002
+- Muhammad Khaled https://github.com/Muhammad-khalied
+- Ahmed Khaled https://github.com/ahmedkhaledhussien
+- Ahmed Hassan https://github.com/Ahmedhassan246
+- Eslam Nasser https://github.com/EslamNasser1
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
