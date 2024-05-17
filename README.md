@@ -1,4 +1,4 @@
-# XO Game using Texas Tiva-C Launchpad
+# XO Game using Texas Instruments Launchpad
 
 This project implements a simple XO game (also known as Tic-Tac-Toe) using the Texas Instruments Launchpad development board (Tiva C Series) along with additional components like a Nokia 5110 LCD, push buttons for player input, LEDs with resistors, a potentiometer, and a buzzer for sound effects.
 
@@ -7,13 +7,14 @@ This project implements a simple XO game (also known as Tic-Tac-Toe) using the T
 - Game state displayed on the Nokia 5110 LCD.
 - Sound effects using the buzzer.
 - LED indicators for game status.
+- GPIO, ADC and Timers Modules are used
 
 ## Hardware Requirements
 - Texas Instruments Launchpad development board (Tiva C)
 - Nokia 5110 LCD
 - Push buttons (5 for directions and drawing)
-- LEDs with resistors
-- Potentiometer
+- LEDs with resistors(330 ohm,10k ohm)
+- Potentiometer 10k ohm
 - Buzzer for sound effects
 
 ## Installation
